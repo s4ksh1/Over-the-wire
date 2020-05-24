@@ -1,1 +1,2 @@
-
+Natas teaches the basics of serverside web-security. Each level has access to the password of the next level. Our job is to somehow obtain that next password and level up.
+URL for each level is of the form http://natasX.natas.labs.overthewire.org, where X is the level number.
